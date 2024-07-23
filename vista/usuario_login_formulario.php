@@ -23,9 +23,9 @@
 	<input name='password'  maxlength='15' type='password' class='bg-indigo-100 border border-indigo-300 text-indigo-600 sm:text-sm rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5'>
 	</div>
 
-	<p class='text-center'>
+	<div class='text-center'>
 	<input name='aceptar' value='Aceptar' type='button' class='cursor-pointer text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center' onClick='validar(document.usuario_ingresar)' >
-	</p>
+</div>
 
 	<p class='w3-center w3-text-red'>
 	<?php 		
